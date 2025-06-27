@@ -1,4 +1,4 @@
-# 🌟 INTERNFORTE Internship Projects
+#  INTERNFORTE Internship Projects
 
 Welcome! This repository contains the projects I developed during my **INTERNFORTE Internship**, where I worked on both **C++ (Data Structures)** and **Python** projects. Each project helped me strengthen core programming skills, logical thinking, and hands-on coding experience.
 
@@ -73,14 +73,14 @@ Add GUI, multiplayer mode, more word variety.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Languages:** C++, Python
 - **Tools:** VS Code, Git, GitHub
 - **Topics:** Data Structures, OOP, Logic Building
 
 ---
 
-## 🏆 Internship Info
+##  Internship Information
 This work was completed as part of my **INTERNFORTE Internship**, where I applied my academic learning to real-world coding challenges.
 
 
