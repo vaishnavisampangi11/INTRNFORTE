@@ -1,6 +1,6 @@
 #  INTERNFORTE Internship Projects
 
-Welcome! This repository contains the projects I developed during my **INTERNFORTE Internship**, where I worked on both **C++ (Data Structures)** and **Python** projects. Each project helped me strengthen core programming skills, logical thinking, and hands-on coding experience.
+Welcome! This repository contains the projects I developed during my **INTERNFORTE Internship**, where I worked on both **Data Structures** and **Python** projects. Each project helped me strengthen core programming skills, logical thinking, and hands-on coding experience.
 
 ---
 
